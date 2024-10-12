@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Bubble Milk Tea",
+        "type": "Classic Drinks",
+        "price": "$30 (S), $35 (M), $40 (L)",
+        "image": "assets/bubble-milktea.png"
+    },
+    {
+        "name": "Iced Latte",
+        "type": "Coffee",
+        "price": "$30 (S), $35 (M), $40 (L)",
+        "image": "assets/iced-latte.jpg"
+    },
+    {
+        "name": "Matcha Green Tea Latte",
+        "type": "Tea",
+        "price": "$25 (S), $30 (M), $35 (L)",
+        "image": "assets/greentea.jpg"
+    },
+    {
+        "name": "Mango Smoothie",
+        "type": "Smoothie",
+        "price": "$35 (S), $40 (M), $45 (L)",
+        "image": "assets/mango.jpg"
+    },
+    {
+        "name": "Blue Hawaiian Cocktail",
+        "type": "cocktail",
+        "price": "$80 (S), $95 (M), $110 (L)",
+        "image": "assets/cocktail.jpg"
+    },
+    {
+        "name": "water",
+        "type": "water",
+        "price": "$7(S), $10 (M), $12 (L)",
+        "image": "assets/water.jpg"
+    }
+]

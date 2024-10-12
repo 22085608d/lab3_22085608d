@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../EIE4432"
+		},
+		{
+			"path": "../assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EIE4432"
+	}
+}
